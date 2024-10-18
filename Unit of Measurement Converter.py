@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 convert_from = input("Enter Starting Unit of Measurement(inches, feet, yards): ")
 convert_to = input("Enter Unit of Measurement to Convert to(inches, feet, yards): ")
 
