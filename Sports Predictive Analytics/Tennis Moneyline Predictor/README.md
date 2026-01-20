@@ -4,7 +4,7 @@ A machine learning-based tennis betting predictor that analyzes ATP and WTA matc
 
 ## 📊 Performance
 
-- **Win Rate:** 53% (17-15 on non-Grand Slam tournaments)
+- **Win Rate:** 53% (177-155 on non-Grand Slam tournaments)
 - **ROI:** Positive
 - **Training Data:** 11,700+ ATP matches, 10,700+ WTA matches (2021-2026)
 - **Model Accuracy:** ~63% on test data
